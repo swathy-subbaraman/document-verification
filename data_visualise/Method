@@ -1,0 +1,3 @@
+Instructions:
+Step 1: pip install streamlit pymongo pandas plotly
+Step 2: Run -> streamlit run log_dashboard.py
